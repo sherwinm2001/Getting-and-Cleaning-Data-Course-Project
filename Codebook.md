@@ -1,4 +1,4 @@
-# Data Dictionary for tidy_data.txt
+# Code Book for Tidy_Dataset.txt
 
 ## Activities
         Activity ID         Activity description
