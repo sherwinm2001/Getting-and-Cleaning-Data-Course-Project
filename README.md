@@ -3,7 +3,7 @@ This R-code downloads data about "Human Activity Recognition Using Smartphones D
 
 ## Assignment Submission Files
 * [run_analysis.R](https://github.com/sherwinm2001/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
-* [CodeBook.md](https://github.com/sherwinm2001/Getting-and-Cleaning-Data-Course-Project)
+* [CodeBook.md](https://github.com/sherwinm2001/Getting-and-Cleaning-Data-Course-Project/blob/master/Codebook.md)
 * [README.md](https://github.com/sherwinm2001/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md)
 * [Tidy_Dataset.txt](https://github.com/sherwinm2001/Getting-and-Cleaning-Data-Course-Project/blob/master/Tidy_Dataset.txt)
 
